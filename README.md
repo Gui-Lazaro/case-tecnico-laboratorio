@@ -1,4 +1,4 @@
-# ESP32+Python: Projeto de Case
+# Projeto de Case ESP32
 
 Projeto para medir temperatura, umidade, corrente e tensão de um sistema, utilizando um sensor SHT40 e um sensor PZEM, conectados a um microcontrolador ESP32, que enviará esses dados para um servidor MQTT, que foi desenvolvido em Python.
 
@@ -15,7 +15,7 @@ Projeto para medir temperatura, umidade, corrente e tensão de um sistema, utili
 - Biblioteca Paho MQTT para Python
 - Python
 
-## Instruções para uso
+# Instruções para uso
 
 - Instalar as bibliotecas necessárias para o ESP32 e Python
 - Configurar as conexões no código do ESP32 e do Python
@@ -37,6 +37,6 @@ Projeto para medir temperatura, umidade, corrente e tensão de um sistema, utili
 - Certifique-se de que o Wi-Fi esteja funcionando corretamente e que o broker MQTT esteja acessível.
 - Certifique-se de que o servidor Python esteja rodando corretamente e que os arquivos CSV estejam sendo escritos corretamente.
 
-## Autoria
+# Autoria
 
-Isis Alves Nunis Bordinassi
+Guilherme Lazaro de Oliveira
